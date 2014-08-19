@@ -1,0 +1,21 @@
+/*
+ * aaltsys.css
+ * ~~~~~~~~~~~~~~~
+ *
+ * AAltsys modifications and corrections to Sphinx stylesheet: sphinxdoc theme.
+ *
+ */
+
+@import url("sphinxdoc.css");
+
+/* -- page layout ----------------------------------------------------------- */
+
+body {
+    margin: 5px 5px 5px 5px;
+}
+
+/* -- body styles ----------------------------------------------------------- */
+
+table {
+    margin: 0 0 0 0; 
+}

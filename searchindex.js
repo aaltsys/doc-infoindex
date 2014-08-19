@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{note:0,webwar:0,configur:0,develop:0,kubuntu:0,softwar:0,edi:0,manual:0,desktop:0,wareh:0,ware:0,asci:0,collabor:0,"new":0,content:0,instal:0,x12:0,server:0,guid:0,document:0,standard:0},objtypes:{},objnames:{},filenames:["index"],titles:["AAltsys Info Master Index"],objects:{},titleterms:{aaltsi:0,info:0,master:0,index:0}})
