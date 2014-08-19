@@ -1,89 +1,32 @@
-## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
+# files which should not be included in any repository
 
-## Intermediate documents:
-*.dvi
-# these rules might exclude image files for figures etc.
-# *.ps
-# *.eps
-# *.pdf
+# OS directory files
+.directory
+*/.directory
 
-## Bibliography auxiliary files (bibtex/biblatex/biber):
-*.bbl
-*.bcf
-*.blg
-*-blx.aux
-*-blx.bib
-*.run.xml
+# editor backup files
+*~
+*kate-swp
+*/*~
+*/*kate-swp
 
-## Build tool auxiliary files:
-*.fdb_latexmk
-*.synctex.gz
-*.synctex.gz(busy)
-*.pdfsync
+# cloud9 revision tracking
+.c9revisions/*
 
-## Auxiliary and intermediate files from other packages:
+# built folder content (.html, .doc, .pdf)
+*build/*
+*/*build/*
 
-# algorithms
-*.alg
-*.loa
+# deployment folder content
+*deploy/*
+*/*deploy/*
 
-# amsthm
-*.thm
+# keep directories which include .gitkeep
+!.git_keep
+!.gitkeep
+!*/.git_keep
+!*/.gitkeep
 
-# beamer
-*.nav
-*.snm
-*.vrb
-
-# glossaries
-*.acn
-*.acr
-*.glg
-*.glo
-*.gls
-
-# hyperref
-*.brf
-
-# listings
-*.lol
-
-# makeidx
-*.idx
-*.ilg
-*.ind
-*.ist
-
-# minitoc
-*.maf
-*.mtc
-*.mtc0
-
-# minted
-*.pyg
-
-# nomencl
-*.nlo
-
-# sagetex
-*.sagetex.sage
-*.sagetex.py
-*.sagetex.scmd
-
-# sympy
-*.sout
-*.sympy
-sympy-plots-for-*.tex/
-
-# todonotes
-*.tdo
-
-# xindy
-*.xdy
+# Private files
+# .htaccess
+# .htpasswd
